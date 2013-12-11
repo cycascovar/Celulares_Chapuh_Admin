@@ -10,5 +10,3 @@ Descripción
  * Equipos en garantía.
  * Equipos en reparación.
  * Historial de equipos vendidos por sucursal.
- * Ver un catálogo de usuarios. (y poder modificar sus contraseñas/nombre de usuario)
- * Dar de alta o bien dar de baja usuarios.
